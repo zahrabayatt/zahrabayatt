@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Music(🎵), Cats(🐈) And Codding(💻).\
+- ⚡ Fun fact: I love Music(🎵), Cats(🐈) And Codding(💻).
 
 ## Languages & Tools <img src="gifs/tag.webp" alt="tag" width="30px" height="30px" />
 ![NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=visualstudio&logoColor=8A2BE2)&nbsp;
@@ -31,10 +31,11 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) \
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ## Connect with me <img src="gifs/handshake.gif" alt="hand shake" width="60px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](http://zahra.bayat13799@gmail.com)
