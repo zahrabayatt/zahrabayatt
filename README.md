@@ -12,8 +12,6 @@
   />
 </div>
 
-<br>
-
 ## About Me... <img src="gifs/giphy.webp" alt="chart" width="30px" height="30px" />
 - 👨‍💻 I'm a Developer, Mentor, Self and quick learner!!
 - 🔭 I’m currently working on some full stack projects.
@@ -22,8 +20,6 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Music(🎵), Cats(🐈) And Codding(💻).\
-
-<br>
 
 ## Languages & Tools <img src="gifs/tag.webp" alt="tag" width="30px" height="30px" />
 ![NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=visualstudio&logoColor=8A2BE2)&nbsp;
@@ -39,8 +35,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-
-<br>
 
 ## Connect with me <img src="gifs/handshake.gif" alt="hand shake" width="60px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](http://zahra.bayat13799@gmail.com)
