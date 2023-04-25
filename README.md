@@ -22,13 +22,17 @@
 - ⚡ Fun fact: I love Music(🎵), Cats(🐈) And Codding(💻).
 
 ## Languages & Tools <img src="gifs/tag.webp" alt="tag" width="30px" height="30px" />
-![NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=visualstudio&logoColor=8A2BE2)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=8A2BE2)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) \
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=visualstudio&logoColor=8A2BE2)&nbsp;
+![NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=.NET&logoColor=8A2BE2)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=Blazor)&nbsp;
+![.NET MAUI Blazor](https://img.shields.io/badge/-.NET%20MAUI%20Blazor-05122A?style=flat&logo=Blazor)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
