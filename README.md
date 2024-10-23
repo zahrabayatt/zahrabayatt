@@ -25,10 +25,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=8A2BE2)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=visualstudio&logoColor=8A2BE2)&nbsp;
 ![NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=.NET&logoColor=8A2BE2)&nbsp;
@@ -36,7 +40,6 @@
 ![.NET MAUI Blazor](https://img.shields.io/badge/-.NET%20MAUI%20Blazor-05122A?style=flat&logo=Blazor)&nbsp;
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
