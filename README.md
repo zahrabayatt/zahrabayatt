@@ -16,7 +16,7 @@
 I'm a **Front-End Developer** with experience building responsive, user-focused applications using **React**, **TypeScript**, and **C# ASP.NET Web API**.
 
 - 🔍 Looking for **full-time front-end roles** — open to **remote opportunities**
-- 💬 3 years of experience mentoring junior developers to strengthen soft skills through a CS internship program
+- 💬 Grew from intern to mentor over 3 years in a CS internship program, building strong soft skills and supporting other developers.
 - 💡 Currently focused on sharpening my front-end skills and exploring the world of **AI & large language models**
 - 🎯 Passionate about learning, building, and collaborating on impactful software
 - 😄 Pronouns: She/Her
